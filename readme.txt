@@ -6,6 +6,9 @@ git status 2
 Git tracks change of files.
 Creating a new branch is quick and simple.
 add merge.
+add something on dev.
+set exit = 1
+set exit = 2
 
 git is a free software.
 git yingyingying

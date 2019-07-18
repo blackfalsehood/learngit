@@ -7,4 +7,4 @@ Git tracks change of files.
 Creating a new branch is quick and simple.
 add merge.
 add something on dev.
-
+set exit = 1

@@ -8,4 +8,5 @@ Creating a new branch is quick and simple.
 add merge.
 add something on dev.
 set exit = 1
-int hello
+set exit = 2
+
